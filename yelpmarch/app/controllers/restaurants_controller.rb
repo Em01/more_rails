@@ -1,7 +1,15 @@
 class RestaurantsController < ApplicationController
 
   def index
-    # raise 'Hello world'
+    @restaurants = Restaurant.all
+  end
+
+  def new
+  end
+
+  def create
+    Restaurant.create({name: 'McDonalds', address: '1 City Road, London'})
+    redirect_to '/restaurants'
   end
 
 end
