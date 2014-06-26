@@ -1,9 +1,7 @@
 #Rails-Yelp
-=================
-This was a project set in week 8 at Makers Academy. It was our first introudction to using Rails. 
+This was a project set in week 8 at Makers Academy. It was our first introudction to using Rails. The project was set by our coach Alex Peattie. I shall be returning to the project at a later date but i wanted to study Michael Hartls Rails Tutorials first.
 
-###Technologies Used
-----------
+##Technologies Used
 - Sublime Text
 - Git & GitHub
 - Rails
@@ -11,10 +9,6 @@ This was a project set in week 8 at Makers Academy. It was our first introudctio
 - RSpec
 - Capybara
 - Haml
-
-###Languages Used
-----------
-
 - HTML
 - CSS
 - Ruby
